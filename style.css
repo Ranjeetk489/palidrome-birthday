@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
 body{
     background-color: #F8fbf8;
-    background-image: url(birthday.jpg);
+    /* background-image: url(birthday.jpg); */
     background-size: cover;
     font-family: 'Mulish', sans-serif;
 
@@ -24,7 +24,7 @@ input{
     font-weight: bold;
 }
 #p2{
-    color:yellow;
+    color:black;
 }
 #birthday{
     color: red;
