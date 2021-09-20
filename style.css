@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
 body{
-    background-color: #F8fbf8;
+    
     /* background-image: url(birthday.jpg); */
-    background-size: cover;
+    /* background-size: cover;
+    background-position:inherit; */
+    background-color: #e5e4e2;
     font-family: 'Mulish', sans-serif;
 
 }
@@ -16,11 +18,11 @@ input{
 .container{
     margin: 0 auto;
     text-align: center;
-    margin-top: 3.3cm;
+    margin-top: 3cm;
 }
 
 #details{
-    font-size: larger;
+    font-size: large;
     font-weight: bold;
 }
 #p2{
