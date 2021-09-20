@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+body{
+    background-color: #F8fbf8;
+    background-image: url(birthday.jpg);
+    background-size: cover;
+    font-family: 'Mulish', sans-serif;
+
+}
+header{
+    font-size: 1.2cm;
+}
+input{
+    margin-top: 15px;
+    line-height: 4vh;
+}
+.container{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 3.3cm;
+}
+
+#details{
+    font-size: larger;
+    font-weight: bold;
+}
+#p2{
+    color:yellow;
+}
+#birthday{
+    color: red;
+}
+#showBtn{
+    background-color: white; 
+    border: 2px solid #007FFF;
+    color: black;
+    padding: 8px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 15px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+}
+
+#showBtn:hover {
+    background-color: #007FFF; 
+    color: black; 
+}
+#message{
+    margin-top: 8px;
+    font-size: larger;
+    font-weight: bolder;
+    color: orange;
+}
