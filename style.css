@@ -6,6 +6,8 @@ body{
     background-position:inherit; */
     background-color: #e5e4e2;
     font-family: 'Mulish', sans-serif;
+    min-width: 800px;
+    width: auto;
 
 }
 header{
