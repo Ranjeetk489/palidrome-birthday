@@ -84,3 +84,8 @@ footer {
     width: 40px;
     padding: 1rem 0.2rem;
   }
+
+  #message{
+      min-height: 3vh;
+      width: auto;
+  }
